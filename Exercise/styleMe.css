@@ -1,0 +1,110 @@
+
+#mainimage{
+    text-align: center;
+    border: 1px black solid;
+    background-color: azure;
+}
+
+#menucont{
+    text-align: right;
+    border-radius: 20px;
+    border: 1px black solid ;
+    padding: 30px;
+    background-color: blanchedalmond
+}
+#footer{
+    border: 1px black solid;
+    background-color: rgba(90,90,90);
+    padding: 20px;
+    text-align: center;
+    color: azure;
+    font-size: 18px;
+    font-family: "2  Koodak";
+}
+#titletext{
+    border-radius:20px;
+    text-align: center;
+    font-family: '2  Titr';
+    font-size: 50px;
+    background-color: black;
+    color: azure;
+    padding: 20px;
+}
+#loginbot{
+    background-color: #DBCE51;
+    padding: 8px;   color: black;border: 1px black dashed;border-radius: 25px; font-family: "B Koodak";
+    float: left;
+}
+#loginbot:hover{
+    background-color: #776A08;
+    color: #C1CEF6;}
+
+#smallpic{
+    width:180px;
+    height:180px;
+    margin-left:15px;
+    float: right
+}
+#maintitle{
+    font-family: "B Titr";
+    font-size: 20px;
+    text-align: right;
+    margin-right: 20px;
+
+
+}
+/* class in css */
+.textme{
+    font-family: "2  Homa";
+    font-size: 15px;
+    text-align: right;
+    background-color: floralwhite;
+    padding: 10px;
+}
+.imagemain{
+    width: 900px;
+    height: 500px;
+
+}
+
+.iconfooter{
+    background-color: azure;
+    border-radius: 25px;
+    margin-top: 10px;
+    width: 40px;
+    height: 40px;
+}
+.Headbotten:hover{
+    background-color: #776A08;
+    color: #C1CEF6;
+}
+.copyright{
+    background-color: black;
+    color: azure;
+    font-family: "2  Koodak";
+    font-size: 20px;
+    text-align: right;
+    padding: 10px;
+
+
+}
+.Headbotten{
+    background-color: #DBCE51;
+    padding: 12px;
+    color: black;
+    border: 1px black dashed;
+    border-radius: 25px;
+    font-family: "B Koodak";
+
+}
+
+.headertitle{
+    float: left;
+    width: 100px;
+    height: 100px;
+    border-radius: 25px;
+    border: 1px brown solid;
+    margin-top: 13px;
+    margin-left: 15px;
+
+}
