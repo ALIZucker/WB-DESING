@@ -1,0 +1,120 @@
+table, td {
+    background-color: black;
+
+}
+
+table {
+    width: 100%;
+    height: fit-content;
+
+}
+
+td {
+
+    width: 200px;
+padding: 0;
+margin: 0;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#titletext {
+    text-align: center;
+    font-family: '2  Titr';
+    font-size: 50px;
+    background-color: black;
+    color: azure;
+    padding: 20px;
+}
+
+.headertitle {
+    border-radius: 10px;
+    width: 120px;
+    height: 120px;
+
+    border: 1px brown solid;
+
+}
+
+.backhead {
+    background-color: black;
+    text-align: center;
+}
+
+.Headbotten {
+    color: azure;
+    font-family: "B Koodak";
+
+}
+.Headbottenone {
+    color: azure;
+    font-family: "B Koodak";
+    margin-left: 50px;
+
+
+}
+.Headbottenone:hover {
+    border: 1px azure solid;
+    background-color: rgba(10, 20, 20, 0.6);
+    color: azure;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+#footer{
+    border: 1px black solid;
+    background-color: rgba(20,20,20,0.8);
+    padding: 20px;
+    text-align: center;
+    color: azure;
+    font-size: 18px;
+    direction: rtl;
+    font-family: "2  Koodak";
+}
+.iconfooter{
+    border-radius: 8px;
+    margin: 10px;
+    width: 30px;
+    height: 30px;
+}
+.Headbotten:hover {
+    border: 1px azure solid;
+    background-color: rgba(10, 20, 20, 0.6);
+    color: azure;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.imagemain {
+    width: 900px;
+    height: 500px;
+
+}
+
+#smallpic {
+    width: 250px;
+    height: 250px;
+    border: 2px brown solid;
+    border-radius: 12px;
+}
+.contimage{
+    text-align: right;
+    padding: 10px;
+    background-color: black;
+    color: floralwhite;
+    font-family: "2  Koodak";
+    direction: rtl;
+
+}
+#maintitle {
+    font-family: "B Titr";
+    font-size: 20px;
+    text-align: right;
+    margin-right: 20px;
+}
+#bigpic{
+    text-align: center;
+    background-color: rgba(50,50,40,0.8);
+}
