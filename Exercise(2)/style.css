@@ -1,6 +1,6 @@
 table, td {
     background-color: black;
-
+    color: wheat;
 }
 
 table {
@@ -34,7 +34,7 @@ margin: 0;
     border-radius: 10px;
     width: 120px;
     height: 120px;
-
+    margin-top: 12px;
     border: 1px brown solid;
 
 }
@@ -47,6 +47,7 @@ margin: 0;
 .Headbotten {
     color: azure;
     font-family: "B Koodak";
+    transition: 1s;
 
 }
 .Headbottenone {
@@ -60,6 +61,7 @@ margin: 0;
     border: 1px azure solid;
     background-color: rgba(10, 20, 20, 0.6);
     color: azure;
+    transition: 1s;
     padding-left: 15px;
     padding-right: 15px;
 }
@@ -78,6 +80,7 @@ margin: 0;
     margin: 10px;
     width: 30px;
     height: 30px;
+    cursor: pointer;
 }
 .Headbotten:hover {
     border: 1px azure solid;
@@ -117,4 +120,10 @@ margin: 0;
 #bigpic{
     text-align: center;
     background-color: rgba(50,50,40,0.8);
+}
+.copyright{
+    background-color: rgba(20,20,20,0.4);
+    direction: ltr;
+    text-align: center;
+    color: wheat;
 }
